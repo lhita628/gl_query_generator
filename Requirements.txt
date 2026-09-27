@@ -5,3 +5,4 @@ sqlparse
 langchain
 langchain-core
 langchain-openai
+tabulate

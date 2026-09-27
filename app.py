@@ -22,7 +22,7 @@ import sqlite3
 import pandas as pd
 import streamlit as st
 
-from langchain_openai import ChatOpenAI
+from langchain_openai import ChatOpenAI 
 
 import warnings
 warnings.filterwarnings("ignore")

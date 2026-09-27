@@ -1,8 +1,8 @@
+langchain-openai
 streamlit
 pandas
 numpy
 sqlparse
 langchain
 langchain-core
-langchain-openai
 tabulate
